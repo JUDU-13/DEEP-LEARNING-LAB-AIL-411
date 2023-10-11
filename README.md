@@ -19,5 +19,8 @@ learning algorithms
 ## Deep Learning Lab Experiments
 
 * [Experiment 1 → Simple Linear Regression]
-
 * [Experiment 2 → Basic Image Enhancement Operations]
+* [Experiment 3 → Classification on CIFAR-10 Dataset]
+* [Experiment 4 → CIFAR-10: Testing With Different Hyperparameters]
+
+
